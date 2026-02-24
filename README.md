@@ -16,9 +16,11 @@ An Android application built with Kotlin to scan, record, and export live workou
 
 ## Screenshots
 
-[Scanning for bikes](screenshots/scanning.png)
-[Session in progress](screenshots/session.png)
-[Session complete](screenshots/end-session.png)
+<p>
+  <img src="screenshots/scanning.png" alt="Scanning for bikes" width="250">
+  <img src="screenshots/session.png" alt="Session in progress" width="250">
+  <img src="screenshots/end-session.png" alt="Session complete" width="250">
+</p>
 
 ## Project Structure
 
