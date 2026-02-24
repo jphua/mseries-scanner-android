@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- Shares files from getExternalFilesDir(null) -->
+    <external-files-path name="session_csv" path="." />
+    <!-- Fallback: internal files dir -->
+    <files-path name="session_csv_internal" path="." />
+</paths>
